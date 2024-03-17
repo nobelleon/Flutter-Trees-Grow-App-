@@ -1,4 +1,6 @@
-# trees_grow_app
+# Trees_grow_app
+
+![Trees Grow App](https://github.com/nobelleon/Flutter-Trees-Grow-App-/assets/76748114/5ac64fa8-4606-4c84-b323-3ec3290146a3)
 
 A new Flutter project.
 
